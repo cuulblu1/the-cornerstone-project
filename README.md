@@ -74,7 +74,7 @@ Quick Start (Reading Order)
 5. **Behavioral Playbook**  
    [`docs-05_Behavioral_Playbook.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-05_Behavioral_Playbook)
 6. **Threat Model & Risks**  
-   `docs-06_Threat_Model_and_Risks.md`
+   [`docs-06_Threat_Model_and_Risks.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-06_Threat_Model_and_Risks)
 
 
 
