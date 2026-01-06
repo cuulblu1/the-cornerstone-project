@@ -96,8 +96,6 @@ Repository-level documents live in `/meta`:
 - Contributing
 - PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING.pdf
 - Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/COPYRIGHT
-- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING.pdf
-- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING
 - Changelog
 - PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CHANGELOG.pdf
 - Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CHANGELOG
