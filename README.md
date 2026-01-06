@@ -63,17 +63,17 @@ A design requirement that the system encourages real-world human connection regu
 
 
 Quick Start (Reading Order)
-1. **Whitepaper / Technical Disclosure**  
+1. **Whitepaper / Technical Disclosure**   The problem statement, vision, core principles, and conceptual architecture for a morally-grounded CompanionOS.
    [`docs-01_Whitepaper.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-01_Whitepaper)
-2. **CompanionOS Ethical Standard (Public Edition)**  
+2. **CompanionOS Ethical Standard (Public Edition)**   The compliance-level requirements: what a Cornerstone-aligned companion must and must not do.
    [`docs-02_CompanionOS_Public_Standard_v1.0.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02B_CompanionOS_Public_Standard_v1.0)
-3. **Worldview System Spec**  
+3. **Worldview System Spec** Consent-first worldview guidance architecture, including user modes and guardrails for belief-based support. 
    [`docs-03_Worldview_System_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-03_Worldview_System_Spec)
-4. **Do Not Offer Faith Flag (Formal Spec)**  
+4. **Do Not Offer Faith Flag (Formal Spec)**   A hard user preference that prevents unsolicited religious content—“Don’t bring faith up; I will if I want to.
    [`docs-04_Do_Not_Offer_Faith_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-04_Do_Not_Offer_Faith_Spec)
-5. **Behavioral Playbook**  
+5. **Behavioral Playbook**  Practical conversational behaviors: boundaries, anti-dependency, emotional integrity, and crisis-safe interaction patterns.
    [`docs-05_Behavioral_Playbook.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-05_Behavioral_Playbook)
-6. **Threat Model & Risks**  
+6. **Threat Model & Risks**   How ethical companions fail: manipulation vectors, dependency loops, misuse cases, and mitigation strategies.
    [`docs-06_Threat_Model_and_Risks.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-06_Threat_Model_and_Risks)
 
 
