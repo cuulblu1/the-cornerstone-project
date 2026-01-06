@@ -72,7 +72,7 @@ Quick Start (Reading Order)
 4. **Do Not Offer Faith Flag (Formal Spec)**  
    [`docs-04_Do_Not_Offer_Faith_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-04_Do_Not_Offer_Faith_Spec)
 5. **Behavioral Playbook**  
-   `docs-05_Behavioral_Playbook.md`
+   [`docs-05_Behavioral_Playbook.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-05_Behavioral_Playbook)
 6. **Threat Model & Risks**  
    `docs-06_Threat_Model_and_Risks.md`
 
