@@ -11,15 +11,15 @@ This index provides a stable table of contents for The Cornerstone Project docum
 
 ### 1.1 Charter
 **Purpose:** Defines the mission, non-negotiables, and foundational intent of the project.  
-- PDF: *(linked from repo root)*
-- Markdown: *(optional / if published)*
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/THE%20CORNERSTONE%20CHARTER.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/THE%20CORNERSTONE%20CHARTER.md
 
 ---
 
 ### 1.2 Whitepaper
 **Purpose:** Explains the ethical problem this project addresses, the vision, and the conceptual architecture for a morally-grounded CompanionOS.  
-- PDF: `01_Whitepaper_v1.0.pdf`
-- Markdown: `01_Whitepaper.md`
+- PDF: `01_Whitepaper_v1.0.pdf`  https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-01_Whitepaper.pdf
+- Markdown: `01_Whitepaper.md`https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-01_Whitepaper
 
 ---
 
@@ -34,8 +34,8 @@ Defines what a Cornerstone-aligned companion must and must not do, independent o
 ### 1.4 CompanionOS Ethical Standard — Full (v1.0)
 **Purpose:** Full version including expanded rationale and supporting appendices.  
 This strengthens enabling disclosure and serves as a complete reference for implementation.  
-- PDF: `02B_CompanionOS_Ethical_Standard_Full_v1.0.pdf`
-- Markdown: `02B_CompanionOS_Ethical_Standard_Full_v1.0.md` *(optional if you prefer PDF-only for this one)*
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02B_CompanionOS%20Ethical%20Standard%20%E2%80%94%20Full%20(v1.0)
 
 ---
 
@@ -43,16 +43,15 @@ This strengthens enabling disclosure and serves as a complete reference for impl
 
 ### 2.1 Worldview System Spec (v1.0)
 **Purpose:** Consent-first worldview guidance architecture, including modes, guardrails, and transparency requirements.  
-- PDF: `03_Worldview_System_Spec_v1.0.pdf`
-- Markdown: `03_Worldview_System_Spec.md`
-
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-03_Worldview_System_Spec.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-03_Worldview_System_Spec
 ---
 
 ### 2.2 Do Not Offer Faith Spec (v1.0)
 **Purpose:** Defines a hard preference that prevents unsolicited religious content.  
 The user is effectively saying: “Don’t bring faith up — I will if I want to.”  
-- PDF: `04_Do_Not_Offer_Faith_Spec_v1.0.pdf`
-- Markdown: `04_Do_Not_Offer_Faith_Spec.md`
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-04_Do_Not_Offer_Faith_Spec.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-04_Do_Not_Offer_Faith_Spec
 
 ---
 
@@ -60,15 +59,14 @@ The user is effectively saying: “Don’t bring faith up — I will if I want t
 
 ### 3.1 Behavioral Playbook (v1.0)
 **Purpose:** Practical behavioral requirements: boundaries, anti-dependency patterns, emotional integrity, and crisis-safe interaction.  
-- PDF: `05_Behavioral_Playbook_v1.0.pdf`
-- Markdown: `05_Behavioral_Playbook.md`
-
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-05_Behavioral_Playbook.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-05_Behavioral_Playbook
 ---
 
 ### 3.2 Threat Model and Risks (v1.0)
 **Purpose:** How companion systems fail: manipulation vectors, dependency loops, misuse cases, and mitigations.  
-- PDF: `06_Threat_Model_and_Risks_v1.0.pdf`
-- Markdown: `06_Threat_Model_and_Risks.md`
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-06_Threat_Model_and_Risks.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-06_Threat_Model_and_Risks
 
 ---
 
@@ -90,10 +88,22 @@ Planned diagrams:
 Repository-level documents live in `/meta`:
 
 - License
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/LICENSE.pdf
+-Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/LICENSE
 - Copyright
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/COPYRIGHT.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/COPYRIGHT
 - Contributing
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/COPYRIGHT
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CONTRIBUTING
 - Changelog
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CHANGELOG.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CHANGELOG
 - Citation
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CITATION.pdf
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/CITATION
 
 ---
 
