@@ -70,7 +70,7 @@ Quick Start (Reading Order)
 3. **Worldview System Spec**  
    [`docs-03_Worldview_System_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-03_Worldview_System_Spec)
 4. **Do Not Offer Faith Flag (Formal Spec)**  
-   `docs-04_Do_Not_Offer_Faith_Spec.md`
+   [`docs-04_Do_Not_Offer_Faith_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-04_Do_Not_Offer_Faith_Spec)
 5. **Behavioral Playbook**  
    `docs-05_Behavioral_Playbook.md`
 6. **Threat Model & Risks**  
