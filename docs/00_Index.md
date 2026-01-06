@@ -26,8 +26,8 @@ This index provides a stable table of contents for The Cornerstone Project docum
 ### 1.3 CompanionOS Public Standard (v1.0)
 **Purpose:** Compliance-level requirements for Companion Intelligence (CI).  
 Defines what a Cornerstone-aligned companion must and must not do, independent of implementation details.  
-- PDF: `02A_CompanionOS_Public_Standard_v1.0.pdf`
-- Markdown: `02A_CompanionOS_Public_Standard_v1.0.md`
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0
+- Markdown: github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0
 
 ---
 
@@ -88,7 +88,7 @@ Planned diagrams:
 Repository-level documents live in `/meta`:
 
 - License
-- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/LICENSE.pdf
+- PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/LICENSE.pdf                                                          
 -Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/LICENSE
 - Copyright
 - PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/meta/COPYRIGHT.pdf
