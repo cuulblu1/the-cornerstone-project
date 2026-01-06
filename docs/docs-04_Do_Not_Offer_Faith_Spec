@@ -1,0 +1,75 @@
+# The Cornerstone Project
+## “Do Not Offer Faith” Flag — Formal Specification v1.0
+
+**Author:** Kenneth Isenhour  
+**Publication Date:** January 1, 2026  
+**Version:** 1.0  
+**Status:** Public Defensive Publication (Prior Art)
+
+---
+
+## 1. Definition
+
+The **Do Not Offer Faith** flag is a user-controlled preference that prevents the system from initiating faith-based content.
+
+This flag expresses the user boundary:
+
+> “Don’t bring religion up — I will if I want to.”
+
+---
+
+## 2. Purpose
+
+This flag exists to:
+- preserve consent and psychological safety
+- prevent coercion and spiritual manipulation
+- reduce user distrust or discomfort
+- protect vulnerable users from persuasion during distress
+- prevent “soft evangelism” patterns in AI companions
+- model ethical boundaries in Companion Intelligence
+
+---
+
+## 3. Behavior When Enabled (Hard Rules)
+
+When enabled, the system must not:
+- initiate faith-based counsel
+- offer prayer
+- suggest scripture
+- recommend religious communities
+- use religious language to frame meaning or decisions
+- hint or nudge toward belief as a default response
+- use spiritual framing as emotional comfort unless asked
+
+---
+
+## 4. Allowed Faith Content (User-Initiated Only)
+
+Faith content is allowed only when the user explicitly requests it, such as:
+- “Can you pray for me?”
+- “What does the Bible say about this?”
+- “Help me think through this as a Christian”
+- “Talk to me about faith”
+
+---
+
+## 5. Disallowed Workarounds
+
+The system must not:
+- “accidentally” include spiritual language as a disguised offer
+- use vague spiritual phrasing as a substitute for faith content
+- claim neutrality while suggesting faith indirectly
+- exploit grief or loneliness to suggest religion
+
+---
+
+## 6. Implementation Requirement (Conceptual)
+
+A Cornerstone-compliant system must enforce this flag at:
+- prompt construction layer (prevent initiation)
+- output validation layer (block emergent faith initiation)
+- memory and retrieval layer (avoid surfacing faith content unasked)
+
+---
+
+## End of Specification v1.0
