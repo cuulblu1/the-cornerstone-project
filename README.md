@@ -64,17 +64,17 @@ A design requirement that the system encourages real-world human connection regu
 
 Quick Start (Reading Order)
 1. **Whitepaper / Technical Disclosure**  
-   `docs/01_Whitepaper.md`
+   `docs-01_Whitepaper.md`
 2. **CompanionOS Ethical Standard (Public Edition)**  
-   `docs/02_CompanionOS_Public_Standard_v1.0.md`
+   `docs-02_CompanionOS_Public_Standard_v1.0.md`
 3. **Worldview System Spec**  
-   `docs/03_Worldview_System_Spec.md`
+   `docs-03_Worldview_System_Spec.md`
 4. **Do Not Offer Faith Flag (Formal Spec)**  
-   `docs/04_Do_Not_Offer_Faith_Spec.md`
+   `docs-04_Do_Not_Offer_Faith_Spec.md`
 5. **Behavioral Playbook**  
-   `docs/05_Behavioral_Playbook.md`
+   `docs-05_Behavioral_Playbook.md`
 6. **Threat Model & Risks**  
-   `docs/06_Threat_Model_and_Risks.md`
+   `docs-06_Threat_Model_and_Risks.md`
 
 
 
