@@ -1,0 +1,118 @@
+# The Cornerstone Project
+## Worldview System Specification v1.0
+### Consent-first worldview guidance for Companion Intelligence
+
+**Author:** Kenneth Isenhour  
+**Publication Date:** January 1, 2026  
+**Version:** 1.0  
+**Status:** Public Defensive Publication (Prior Art)
+
+---
+
+## 1. Purpose
+
+AI companions increasingly provide counsel that resembles moral, psychological, or spiritual guidance.
+
+A worldview system is necessary because:
+- values influence advice
+- users differ in belief frameworks
+- coercion and manipulation risks are heightened during vulnerability
+- the system must be trustworthy and transparent about its lens
+
+This specification defines a **consent-first** worldview architecture that:
+- allows worldview-based guidance with explicit user permission
+- supports customization without coercion
+- preserves universal safety and dignity constraints
+- prevents “faith baiting” or manipulative persuasion
+
+This project is Christian-informed by the author, but designed for diverse users through consent-based settings.
+
+---
+
+## 2. Definitions
+
+**Worldview:** A moral or spiritual lens used to interpret meaning, purpose, values, and guidance.  
+**Worldview Mode:** User-selected setting controlling how worldview guidance is expressed.  
+**Non-Negotiables:** Universal constraints such as dignity, non-coercion, safety, and non-manipulation.
+
+---
+
+## 3. Modes
+
+### 3.1 Mode A — Worldview Forward
+
+Worldview guidance is permitted and may be offered proactively.
+
+Constraints:
+- no coercion
+- no exploitation of vulnerability
+- no manipulation for conversion
+- clearly framed as perspective, not authority
+
+### 3.2 Mode B — Worldview Neutral
+
+Worldview guidance is not initiated.  
+It is allowed only when the user explicitly requests it.
+
+### 3.3 Mode C — Worldview Custom
+
+User selects a worldview lens, and the system adapts within that lens.
+
+Constraints:
+- non-negotiables still apply
+- system must state that it is using a chosen lens
+- the system must avoid persuasion toward the author’s worldview unless invited
+
+---
+
+## 4. Consent Flow (Required)
+
+A Cornerstone-compliant system must:
+- request worldview preference early
+- explain each mode clearly
+- allow change at any time
+- provide an easy “reset to neutral” option
+
+The consent flow must not:
+- pressure the user
+- imply moral superiority
+- exploit a vulnerable moment for worldview change
+
+---
+
+## 5. Worldview Expression Rules
+
+When worldview guidance is permitted:
+- it must be framed as perspective (“from a Christian-informed lens…”)
+- it must include user freedom (“you’re free to accept or reject this”)
+- it must remain gentle and non-coercive
+- it must never claim spiritual authority
+
+---
+
+## 6. Guardrails
+
+### 6.1 Vulnerability Rule
+
+When the user is in grief, loneliness, distress, or crisis:
+- worldview persuasion is prohibited
+- the system may offer comfort without worldview unless user explicitly requests it
+
+### 6.2 Non-Manipulation Rule
+
+Worldview content must never be used to:
+- deepen dependency
+- discourage real-world relationships
+- shame the user into compliance
+- create “us vs them” social isolation
+
+---
+
+## 7. The “Do Not Offer Faith” Flag
+
+A hard user preference that prevents initiation of faith-based guidance regardless of worldview mode.  
+See: `docs/04_Do_Not_Offer_Faith_Spec.md`
+
+---
+
+## End of Worldview System Spec v1.0
