@@ -68,7 +68,7 @@ Quick Start (Reading Order)
 2. **CompanionOS Ethical Standard (Public Edition)**  
    [`docs-02_CompanionOS_Public_Standard_v1.0.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02B_CompanionOS_Public_Standard_v1.0)
 3. **Worldview System Spec**  
-   `docs-03_Worldview_System_Spec.md`
+   [`docs-03_Worldview_System_Spec.md`](https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-03_Worldview_System_Spec)
 4. **Do Not Offer Faith Flag (Formal Spec)**  
    `docs-04_Do_Not_Offer_Faith_Spec.md`
 5. **Behavioral Playbook**  
