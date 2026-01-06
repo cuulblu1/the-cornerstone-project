@@ -27,7 +27,7 @@ This index provides a stable table of contents for The Cornerstone Project docum
 **Purpose:** Compliance-level requirements for Companion Intelligence (CI).  
 Defines what a Cornerstone-aligned companion must and must not do, independent of implementation details.  
 - PDF: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0
-- Markdown: github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0
+- Markdown: https://github.com/cuulblu1/the-cornerstone-project/blob/main/docs/docs-02A_CompanionOS_Public_Standard_v1.0
 
 ---
 
